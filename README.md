@@ -2,6 +2,7 @@
 Site for the Tulane gentleman’s book club
 
 Domain purchased through porkbun - [bookspank.com](bookspank.com)
+
 Hosting via Cloudflare Workers
 
 Functionality goals:
