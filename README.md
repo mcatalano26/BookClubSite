@@ -10,7 +10,7 @@ Functionality goals:
 - Order of who is picking next
 - Each person's want-to-reads (or at least a link to the excel sheet)
 - members can log in and gain access to:
-- - update book picks
-- - link to zoom room
+    - update book picks
+    - link to zoom room
 
 
