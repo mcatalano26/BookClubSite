@@ -13,5 +13,7 @@ Functionality goals:
 - members can log in and gain access to:
     - update book picks
     - link to zoom room
+    - voting on next book
+    - 'liking' members book picks
 
 
