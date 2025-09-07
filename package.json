@@ -1,0 +1,23 @@
+{
+  "name": "bookclubsite",
+  "version": "1.0.0",
+  "description": "Site for the Tulane gentleman's literary society",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcatalano26/BookClubSite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcatalano26/BookClubSite/issues"
+  },
+  "homepage": "https://github.com/mcatalano26/BookClubSite#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.2"
+  }
+}

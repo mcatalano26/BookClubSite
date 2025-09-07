@@ -15,4 +15,7 @@ Hosting via Cloudflare Workers
     - Update book picks
     - Link to zoom room
     - Voting on next book
-    - 'Liking' members book picks
+    - 'Liking' members book picks   
+
+## Helpful Commands
+`npx @11ty/eleventy` - run eleventy
